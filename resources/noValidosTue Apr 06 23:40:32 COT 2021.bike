@@ -1,0 +1,3 @@
+Cyclist{bibNumber=12, name='Scott', secondName='thomas', lastName='Morales', birthDate=null, gender=MALE, team=BMC, totalRaceTime=12:09:47, age=26}
+Cyclist{bibNumber=16, name='Sara', secondName='andrea', lastName='Morrison', birthDate=null, gender=FEMALE, team=MOVISTAR, totalRaceTime=12:21:41, age=32}
+Cyclist{bibNumber=20, name='Lori', secondName='denise', lastName='Gordon', birthDate=null, gender=FEMALE, team=SKY, totalRaceTime=12:20:59, age=16}
